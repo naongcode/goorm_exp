@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import List from './components/List'
+import List from './List'
 
 function App() {
   // inputs객체의 초기상태(여기에 입력정보를 저장)
